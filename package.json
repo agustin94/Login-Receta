@@ -1,0 +1,15 @@
+{
+  "name": "login-receta",
+  "version": "1.0.0",
+  "description": "Login Generico donde los inputs estaran parametrizados y extraidos desde un json o js.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Agustin Moreno",
+  "license": "ISC",
+  "dependencies": {
+    "jest": "^24.9.0",
+    "puppeteer": "^1.19.0"
+  }
+}

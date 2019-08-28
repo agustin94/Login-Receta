@@ -1,0 +1,10 @@
+{
+    "SelectorInput": "input.form-input",
+    "name":"input[name=\"identifier\"]",
+    "SelectorPass":"input[name=\"password\"]",
+
+    "SelectorLogin": "button[data-hook=\"start-login\"]",
+    "AppPage": "https://app.theeye.io/login"
+    
+    
+}
